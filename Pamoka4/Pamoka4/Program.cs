@@ -10,6 +10,7 @@ namespace Pamoka4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Github test");
             Console.ReadLine();
         }
     }
