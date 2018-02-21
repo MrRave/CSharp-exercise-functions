@@ -15,6 +15,8 @@ namespace Pamoka4
             Console.ReadLine();
             Console.WriteLine("mamamia");
             Console.ReadLine();
+            Console.WriteLine("Tralialia");
+            Console.ReadLine();
         }
     }
 }
