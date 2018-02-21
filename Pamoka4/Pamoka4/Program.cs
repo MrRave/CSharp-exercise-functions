@@ -11,6 +11,9 @@ namespace Pamoka4
         static void Main(string[] args)
         {
             Console.WriteLine("Github test");
+            Console.WriteLine("Random stuff");
+            Console.ReadLine();
+            Console.WriteLine("mamamia");
             Console.ReadLine();
         }
     }
